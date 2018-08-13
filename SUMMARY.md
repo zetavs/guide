@@ -9,6 +9,8 @@
   * [Параметры получения файлов](nastroika-prais-lista/parametry-polucheniya-failov.md)
   * [Общие настройки обработки файлов](nastroika-prais-lista/obshie-nastroiki-obrabotki-failov.md)
   * [Настройка загрузки колонок](nastroika-prais-lista/nastroika-zagruzki-kolonok.md)
+  * [Результаты загрузки](nastroika-prais-lista/rezultaty-zagruzki.md)
+  * [Сопоставление обозначений наличия](nastroika-prais-lista/sopostavlenie-oboznachenii-nalichiya.md)
   * [Пример загрузки прайс-листа \(видео\)](nastroika-prais-lista/nastroika-prais-lista.md)
 * [Использование MS SQL или SQL Express](ispolzovanie-ms-sql-ili-sql-express.md)
 * [Перекроссировки брендов](perekrossirovki-brendov.md)
