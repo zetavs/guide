@@ -5,7 +5,7 @@
   * [Начальные настройки](ustanovka/untitled.md)
   * [Подключение к РММ](ustanovka/podklyuchenie-k-rmm.md)
 * [Настройка прайс-листа](nastroika-prais-lista/README.md)
-  * [Основные параметры загрузки](nastroika-prais-lista/sozdanie-novoi-nastroiki.md)
+  * [Основные параметры загрузки](nastroika-prais-lista/osnovnye-parametry-zagruzki.md)
   * [Параметры получения файлов](nastroika-prais-lista/parametry-polucheniya-failov.md)
   * [Общие настройки обработки файлов](nastroika-prais-lista/obshie-nastroiki-obrabotki-failov.md)
   * [Пример загрузки прайс-листа \(видео\)](nastroika-prais-lista/nastroika-prais-lista.md)
