@@ -11,8 +11,9 @@
   * [Настройка загрузки колонок](nastroika-prais-lista/nastroika-zagruzki-kolonok.md)
   * [Результаты загрузки](nastroika-prais-lista/rezultaty-zagruzki.md)
   * [Сопоставление обозначений наличия](nastroika-prais-lista/sopostavlenie-oboznachenii-nalichiya.md)
+* [Работа с остатками](rabota-s-ostatkami/README.md)
+  * [Перекроссировки брендов](rabota-s-ostatkami/perekrossirovki-brendov.md)
 * [Использование MS SQL или SQL Express](ispolzovanie-ms-sql-ili-sql-express.md)
-* [Перекроссировки брендов](perekrossirovki-brendov.md)
 * [FAQ](faq/README.md)
   * [Почему письма удаляются из электронного ящика после получения почты](faq/pochemu-pisma-udalyayutsya-iz-elektronnogo-yashika-posle-polucheniya-pochty.md)
 
