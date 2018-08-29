@@ -4,6 +4,8 @@
 * [Установка](ustanovka/README.md)
   * [Начальные настройки](ustanovka/untitled.md)
   * [Подключение к РММ](ustanovka/podklyuchenie-k-rmm.md)
+  * [Подключение к основной базе 1С](ustanovka/podklyuchenie-k-osnovnoi-baze-1s.md)
+  * [Настройки WSG](ustanovka/nastroiki-wsg.md)
 * [Настройка прайс-листа](nastroika-prais-lista/README.md)
   * [Основные параметры загрузки](nastroika-prais-lista/osnovnye-parametry-zagruzki.md)
   * [Параметры получения файлов](nastroika-prais-lista/parametry-polucheniya-failov.md)
