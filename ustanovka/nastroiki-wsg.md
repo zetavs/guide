@@ -10,7 +10,7 @@ description: Релиз 3.0.1.1
 
 Для открытия формы настроек WSG выберите в меню соответствующий пункт.
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 В открывшейся форме укажите основной \(wsg.zetasoft.ru\) и резервный адрес \(webservices.zetasoft.ru\).
 
