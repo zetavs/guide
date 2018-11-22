@@ -6,6 +6,7 @@
   * [Подключение к основной базе 1С](ustanovka/podklyuchenie-k-osnovnoi-baze-1s.md)
   * [Настройки WSG](ustanovka/nastroiki-wsg.md)
   * [Публикация сервисов](ustanovka/publikaciya-servisov.md)
+  * [Настройка регламентных заданий](ustanovka/nastroika-reglamentnykh-zadanii.md)
 * [Настройка прайс-листа](nastroika-prais-lista/README.md)
   * [Основные параметры загрузки](nastroika-prais-lista/osnovnye-parametry-zagruzki.md)
   * [Параметры получения файлов](nastroika-prais-lista/parametry-polucheniya-failov.md)

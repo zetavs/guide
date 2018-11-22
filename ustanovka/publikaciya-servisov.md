@@ -4,7 +4,7 @@ description: Релиз 3.0.1.1
 
 # Публикация сервисов
 
-## Публикация web-сервиса ExchangeVS и http-сервиса ExchangeVS {#publikaciya-veb-servisa}
+## Публикация web-сервиса ExchangeVS и http-сервиса ExchangeVS <a id="publikaciya-veb-servisa"></a>
 
 В зависимости от того, какой программой вы будете пользоваться для публикации веб-сервиса, воспользуйтесь соответствующей инструкцией.
 
@@ -12,7 +12,7 @@ description: Релиз 3.0.1.1
 Дистрибутив Apache - [https://drive.google.com/open?id=0B1XBNSCvmVxwcUxwTFpMejRXTjg](https://drive.google.com/open?id=0B1XBNSCvmVxwcUxwTFpMejRXTjg)​
 {% endhint %}
 
-### Apache или IIS {#apache-ili-iis}
+### Apache или IIS <a id="apache-ili-iis"></a>
 
 {% hint style="info" %}
 Для публикации веб-сервиса необходимо запускать 1С в режиме Конфигуратор с правами администратора.
@@ -34,7 +34,7 @@ Web-сервис ExchangeVS и http-сервис ExchangeVS необходимы
 
 ![Http-&#x441;&#x435;&#x440;&#x432;&#x438;&#x441;](../.gitbook/assets/image%20%2868%29.png)
 
-### 1С Публикатор {#1s-publikator}
+### 1С Публикатор <a id="1s-publikator"></a>
 
 * Скачайте 1С Публикатор \(по ссылке [https://drive.google.com/open?id=0B1XBNSCvmVxwbXhTc045Nk5JakE](https://drive.google.com/open?id=0B1XBNSCvmVxwbXhTc045Nk5JakE)\) и извлеките из архива.
 * Путь к папке, в которой находится 1С Публикатор, должен содержать только латинские символы, желательно расположить в корневой папке диска С \(например C:\Publicator\)

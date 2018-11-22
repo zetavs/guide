@@ -17,7 +17,7 @@
 SQL Epxress - бесплатное решение от компании Microsoft. Сравнение версий [на официальном сайте](https://www.microsoft.com/ru-ru/sql-server/sql-server-2017-editions)
 {% endhint %}
 
-{% embed data="{\"url\":\"https://www.microsoft.com/ru-ru/sql-server/sql-server-editions-express\",\"type\":\"link\",\"title\":\"Выпуск SQL Server 2017 Express \| Microsoft\",\"description\":\"Получите бесплатный выпуск SQL Server начального уровня, идеально подходящий для развертывания небольших баз данных в производственных средах с использованием выпуска Microsoft SQL Server 2017 Express.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.microsoft.com/favicon.ico?v2\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://c.s-microsoft.com/en-us/CMSImages/page-sharing-thumbnail.jpg?version=ad58d6d8-0f5a-b7a8-ea50-939410935c7c\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+{% embed url="https://www.microsoft.com/ru-ru/sql-server/sql-server-editions-express" %}
 
 {% hint style="info" %}
 Для установки и настройки сервера 1С Предприятие и MS SQL рекомендуем обратиться к квалифицированным специалистам, занимающимся системным администрированием.
