@@ -1,6 +1,7 @@
 # Table of contents
 
 * [База знаний](README.md)
+* [История изменений](istoriya-izmenenii.md)
 * [Установка](ustanovka/README.md)
   * [Начальные настройки](ustanovka/untitled.md)
   * [Подключение к основной базе 1С](ustanovka/podklyuchenie-k-osnovnoi-baze-1s.md)
