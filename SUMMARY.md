@@ -20,4 +20,5 @@
 * [Использование MS SQL или SQL Express](ispolzovanie-ms-sql-ili-sql-express.md)
 * [FAQ](faq/README.md)
   * [Почему письма удаляются из электронного ящика после получения почты](faq/pochemu-pisma-udalyayutsya-iz-elektronnogo-yashika-posle-polucheniya-pochty.md)
+  * [Почему не происходит загрузка полученного прайса?](faq/pochemu-ne-proiskhodit-zagruzka-poluchennogo-praisa.md)
 
