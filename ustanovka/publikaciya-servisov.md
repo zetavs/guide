@@ -15,7 +15,7 @@ description: Релиз 3.0.1.1
 ### Apache или IIS <a id="apache-ili-iis"></a>
 
 {% hint style="info" %}
-Для публикации веб-сервиса необходимо запускать 1С в режиме Конфигуратор с правами администратора.
+Для публикации веб-сервиса необходимо запускать 1С в режиме **Конфигуратор** с правами администратора.
 {% endhint %}
 
 ![](../.gitbook/assets/image%20%2826%29.png)
@@ -30,7 +30,7 @@ description: Релиз 3.0.1.1
 Web-сервис ExchangeVS и http-сервис ExchangeVS необходимы для взаимодействия с решениями [Zeta РММ](https://www.zetasoft.ru/products-zeta-rmm/) и [Zeta Web](https://www.zetasoft.ru/products-zetaweb/).
 {% endhint %}
 
-![Web-&#x441;&#x435;&#x440;&#x432;&#x438;&#x441;](../.gitbook/assets/image%20%2853%29.png)
+![](../.gitbook/assets/image-21.png)
 
 ![Http-&#x441;&#x435;&#x440;&#x432;&#x438;&#x441;](../.gitbook/assets/image%20%2868%29.png)
 
