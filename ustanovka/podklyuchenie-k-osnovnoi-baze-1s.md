@@ -15,7 +15,7 @@ description: Релиз 3.0.1.1
 ### Публикация сервисов в основной базе
 
 {% hint style="info" %}
-Web-сервис ExchangeRMM поставляется в рамках отдельной конфигурации на поддержке. Порядок объединения конфигураций и публикации web-сервиса ExchangeRMM описаны в базе знаний RMM.
+Web-сервис ExchangeRMM поставляется в рамках отдельной конфигурации на поддержке. Порядок объединения конфигураций и публикации web-сервиса ExchangeRMM описаны в [базе знаний RMM](https://help-rmm.zetasoft.ru/integraciya-s-osnovnoi-konfiguraciei-1s/izmenenie-osnovnoi-1s#obedinenie-konfiguracii).
 {% endhint %}
 
 {% hint style="info" %}

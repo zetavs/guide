@@ -69,3 +69,45 @@ Web-сервис ExchangeVS и http-сервис ExchangeVS необходимы
 
 * Используйте данный адрес для дальнейших настроек
 
+После произведения публикации рекомендуется также произвести _**проверку текста публикации vrd:**_
+
+```text
+<?xml version="1.0" encoding="UTF-8"?>
+<point xmlns="http://v8.1c.ru/8.2/virtual-resource-system"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  base="/vs-to"
+  ib="Srvr=&quot;mars&quot;;Ref=&quot;vs-to&quot;;">
+ <httpServices publishByDefault="false">
+  <service name="ExchangeVS"
+    rootUrl="ExchangeVS"
+    enable="true"
+    reuseSessions="dontuse"
+    sessionMaxAge="20"
+    poolSize="10"
+    poolTimeout="5"/>
+ </httpServices>
+ <standardOdata enable="true"
+   reuseSessions="autouse"
+   sessionMaxAge="20"
+   poolSize="10"
+   poolTimeout="5"/>
+ <ws>
+  <point name="InterfaceVersion"
+    alias="InterfaceVersion.1cws"
+    enable="false"
+    reuseSessions="dontuse"
+    sessionMaxAge="20"
+    poolSize="10"
+    poolTimeout="5"/>
+  <point name="ExchangeVS"
+    alias="ExchangeVS.1cws"
+    enable="true"
+    reuseSessions="dontuse"
+    sessionMaxAge="20"
+    poolSize="10"
+    poolTimeout="5"/>
+ </ws>
+</point>
+```
+
