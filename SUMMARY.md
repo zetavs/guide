@@ -16,6 +16,7 @@
   * [Результаты загрузки](nastroika-prais-lista/rezultaty-zagruzki.md)
   * [Сопоставление обозначений наличия](nastroika-prais-lista/sopostavlenie-oboznachenii-nalichiya.md)
   * [Настройка актуальности прайс-листов](nastroika-prais-lista/nastroika-aktualnosti-prais-listov.md)
+  * [Пропуск и исключение данных](nastroika-prais-lista/propusk-i-isklyuchenie-dannykh.md)
 * [Работа с остатками](rabota-s-ostatkami/README.md)
   * [Использование MS SQL или SQL Express](rabota-s-ostatkami/ispolzovanie-ms-sql-ili-sql-express.md)
   * [Перекроссировки брендов](rabota-s-ostatkami/perekrossirovki-brendov.md)
