@@ -26,4 +26,5 @@
   * [Почему письма удаляются из электронного ящика после получения почты?](faq/pochemu-pisma-udalyayutsya-iz-elektronnogo-yashika-posle-polucheniya-pochty.md)
   * [Почему не происходит загрузка полученного прайса?](faq/pochemu-ne-proiskhodit-zagruzka-poluchennogo-praisa.md)
   * [Как правильно поменять контрагента, если изменился поставщик по настройке?](faq/kak-pravilno-pomenyat-kontragenta-esli-izmenilsya-postavshik-po-nastroike.md)
+  * [Ограничение по размеру файлов](faq/ogranichenie-po-razmeru-failov.md)
 
