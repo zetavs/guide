@@ -4,7 +4,7 @@ description: Релиз 3.0.1.1
 
 # Публикация сервисов
 
-## Публикация web-сервиса ExchangeVS и http-сервиса ExchangeVS <a href="publikaciya-veb-servisa" id="publikaciya-veb-servisa"></a>
+## Публикация web-сервиса ExchangeVS и http-сервиса ExchangeVS <a href="#publikaciya-veb-servisa" id="publikaciya-veb-servisa"></a>
 
 В зависимости от того, какой программой вы будете пользоваться для публикации веб-сервиса, воспользуйтесь соответствующей инструкцией.
 
@@ -12,10 +12,10 @@ description: Релиз 3.0.1.1
 Дистрибутив Apache - [https://drive.google.com/open?id=0B1XBNSCvmVxwcUxwTFpMejRXTjg](https://drive.google.com/open?id=0B1XBNSCvmVxwcUxwTFpMejRXTjg)​
 {% endhint %}
 
-### Apache или IIS <a href="apache-ili-iis" id="apache-ili-iis"></a>
+### Apache или IIS <a href="#apache-ili-iis" id="apache-ili-iis"></a>
 
 {% hint style="info" %}
-Для публикации веб-сервиса необходимо запускать 1С в режиме **Конфигуратор **с правами администратора.
+Для публикации веб-сервиса необходимо запускать 1С в режиме **Конфигуратор** с правами администратора.
 {% endhint %}
 
 * После объединения и обновления необходимо опубликовать веб-сервис. Для этого переходим в Администрирование – Публикация на веб-сервере
@@ -27,7 +27,7 @@ Web-сервис ExchangeVS и http-сервис ExchangeVS необходимы
 
 ![](../.gitbook/assets/image-21.png)
 
-### 1С Публикатор <a href="1s-publikator" id="1s-publikator"></a>
+### 1С Публикатор <a href="#1s-publikator" id="1s-publikator"></a>
 
 * Скачайте 1С Публикатор (по ссылке [https://drive.google.com/file/d/0B1XBNSCvmVxwNWdZRW85NllkZ2s/view?usp=sharing\&resourcekey=0-E-b69hUhFYJKVRQDPaje4Q](https://drive.google.com/file/d/0B1XBNSCvmVxwNWdZRW85NllkZ2s/view?usp=sharing\&resourcekey=0-E-b69hUhFYJKVRQDPaje4Q)) и извлеките из архива.
 * Путь к папке, в которой находится 1С Публикатор, должен содержать только латинские символы, желательно расположить в корневой папке диска С (например C:\Publicator)
