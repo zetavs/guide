@@ -29,3 +29,4 @@
   * [Ограничение по размеру файлов](faq/ogranichenie-po-razmeru-failov.md)
   * [Создание загрузок по ранее загруженным письмам](faq/sozdanie-zagruzok-po-ranee-zagruzhennym-pismam.md)
   * [Настройка учетной записи Gmail в 1С](faq/nastroika-uchetnoi-zapisi-gmail-v-1s.md)
+  * [Зависает ВС при получении почты](faq/zavisaet-vs-pri-poluchenii-pochty.md)
