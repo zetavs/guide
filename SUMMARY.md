@@ -8,6 +8,7 @@
   * [Настройки WSG](ustanovka/nastroiki-wsg.md)
   * [Публикация сервисов](ustanovka/publikaciya-servisov.md)
   * [Настройка регламентных заданий](ustanovka/nastroika-reglamentnykh-zadanii.md)
+  * [Внешний архиватор 7 zip](ustanovka/vneshnii-arkhivator-7-zip.md)
 * [Настройка прайс-листа](nastroika-prais-lista/README.md)
   * [Основные параметры загрузки](nastroika-prais-lista/osnovnye-parametry-zagruzki.md)
   * [Параметры получения файлов](nastroika-prais-lista/parametry-polucheniya-failov.md)
